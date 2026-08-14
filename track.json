@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "id": "ios-12",
+  "platform": "iOS",
+  "appledb_platform": "iOS",
+  "device": "iPhone7,1",
+  "major_version": 12,
+  "anchor": {
+    "version": "12.5.8",
+    "build": "16H88",
+    "released": "2026-01-26T00:00:00Z",
+    "beta": false,
+    "rc": false
+  }
+}
