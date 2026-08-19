@@ -2,7 +2,7 @@ name: Discover iOS 12 firmware
 
 on:
   schedule:
-    - cron: "12 */6 * * *"
+    - cron: "12 * * * *"
   pull_request:
     paths:
       - .github/workflows/discover.yml
